@@ -31,3 +31,5 @@ public class TestGreeter {
     assertThat(greeter.greet(someone).length(), is(greaterThan(someone.length())));
   }
 }
+
+// this is for writing the code and testing SCP
