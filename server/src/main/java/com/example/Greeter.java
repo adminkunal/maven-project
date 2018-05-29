@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * This is a class to test. 
+ * This is a class to test the jobs 
  */
 public class Greeter {
 
