@@ -1,8 +1,8 @@
 package com.example;
 
 /**
- * This is a class to test the jobs for prod again 
- * this is to test the second maven project
+ * This is a class to test the jobs for prod again.
+ * This is to test the second maven project.
  */
 public class Greeter {
 
