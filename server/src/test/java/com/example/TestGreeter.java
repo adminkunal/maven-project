@@ -11,7 +11,6 @@ import static org.junit.matchers.JUnitMatchers.containsString;
 public class TestGreeter {
 
   private Greeter greeter;
-  private More more;
 
   @Before
   public void setup() {
