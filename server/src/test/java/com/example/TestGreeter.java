@@ -11,10 +11,12 @@ import static org.junit.matchers.JUnitMatchers.containsString;
 public class TestGreeter {
 
   private Greeter greeter;
+  private more more;
 
   @Before
   public void setup() {
     greeter = new Greeter();
+    more = new more();
   }
 
   @Test
