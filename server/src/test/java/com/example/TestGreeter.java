@@ -15,7 +15,6 @@ public class TestGreeter {
   @Before
   public void setup() {
     greeter = new Greeter();
-    more = new more();
   }
 
   @Test
@@ -33,5 +32,4 @@ public class TestGreeter {
   }
 }
 
-// this is for writing the code and testing SCP
-// this is again new testing for code for pollscp. 
+// this is for writing the code and testing SCP. This is to test the code for SCP and pipeline
